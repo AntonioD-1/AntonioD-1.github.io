@@ -1,0 +1,7 @@
+->Write description on index.html
+->Create pages
+->Find images
+->Compile a list of sources
+-->https://www.britannica.com/list/inventors-and-inventions-of-the-industrial-revolution
+-->https://www.thoughtco.com/industrial-revolution-inventors-chart-4059637
+->Add a footer
