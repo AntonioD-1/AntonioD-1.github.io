@@ -32,5 +32,6 @@
 
 h1 {
   border-left: 6px solid aqua;
+  padding: 7px;
   background-color: lightgrey;
 }
