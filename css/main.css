@@ -13,6 +13,14 @@
   display: table;
 }
 
+.menu {
+  width: 25%;
+}
+
+.content {
+  width: 75%;
+}
+
 .menu ul {
   list-style-type: none;
   margin: 0;
@@ -29,6 +37,7 @@
 .menu li:hover {
   background-color: #0099cc;
 }
+
 
 h1 {
   border-left: 6px solid aqua;
