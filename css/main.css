@@ -2,9 +2,13 @@
   box-sizing: border-box;
 }
 
-.column {
+.column menu {
   float: left;
   padding: 15px;
+}
+
+.column content {
+  float: left;
 }
 
 .clearfix::after {
