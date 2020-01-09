@@ -1,8 +1,10 @@
-->Write description on index.html
 ->Create pages
 ->Find images
 ->Compile a list of sources
 -->https://www.britannica.com/list/inventors-and-inventions-of-the-industrial-revolution
 -->https://www.thoughtco.com/industrial-revolution-inventors-chart-4059637
 -->https://www.ducksters.com/history/us_1800s/steam_engine_industrial_revolution.php
+-->https://science.howstuffworks.com/innovation/inventions/5-industrial-revolution-inventions4.htm
+-->https://www.thoughtco.com/airplanes-flight-history-1991789
+-->https://www.history.com/topics/inventions/wright-brothers
 ->Add a footer
