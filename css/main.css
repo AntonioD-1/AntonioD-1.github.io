@@ -58,6 +58,7 @@ p {
 	border: 2px solid LightSteelBlue;
 	border-radius: 10px;
 	background-color: LightSteelBlue;
+	overflow: auto;
 }
 
 body {
